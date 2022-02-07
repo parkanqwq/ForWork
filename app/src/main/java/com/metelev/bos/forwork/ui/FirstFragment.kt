@@ -9,5 +9,5 @@ import com.metelev.bos.forwork.R
 
 
 class FirstFragment : Fragment() {
-   
+
 }
